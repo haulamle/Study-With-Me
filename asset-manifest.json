@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Study-With-Me/static/css/main.6170b822.css",
-    "main.js": "/Study-With-Me/static/js/main.d62cfe4a.js",
+    "main.css": "/Study-With-Me/static/css/main.9103790b.css",
+    "main.js": "/Study-With-Me/static/js/main.867c0a83.js",
     "static/js/787.28ceb4c2.chunk.js": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js",
     "static/media/banner.png": "/Study-With-Me/static/media/banner.1e73dca4c10866cc0328.png",
     "static/media/banner5.jpg": "/Study-With-Me/static/media/banner5.f3a59cbf294a1e37cf2e.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.woff": "/Study-With-Me/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Study-With-Me/index.html",
     "static/media/chevron-right.svg": "/Study-With-Me/static/media/chevron-right.feae571ec5d8b5ac4b206b8b645c947f.svg",
-    "main.6170b822.css.map": "/Study-With-Me/static/css/main.6170b822.css.map",
-    "main.d62cfe4a.js.map": "/Study-With-Me/static/js/main.d62cfe4a.js.map",
+    "main.9103790b.css.map": "/Study-With-Me/static/css/main.9103790b.css.map",
+    "main.867c0a83.js.map": "/Study-With-Me/static/js/main.867c0a83.js.map",
     "787.28ceb4c2.chunk.js.map": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6170b822.css",
-    "static/js/main.d62cfe4a.js"
+    "static/css/main.9103790b.css",
+    "static/js/main.867c0a83.js"
   ]
 }
