@@ -59,11 +59,11 @@ export const Lesson = () => {
 
   const fetchDataCourse = () => {
     if (
-      myCourses.some(
+      myCourses?.some(
         (course) => course.idKhoaHoc === parseInt(idCourse) && course.trangThai === 0
       )
     ) {
-      var course = myCourses.filter( (course) => course.idKhoaHoc === parseInt(idCourse) && course.trangThai === 0)[0]
+      var course = myCourses?.filter( (course) => course.idKhoaHoc === parseInt(idCourse) && course.trangThai === 0)[0]
       console.log(course);
       var dataSend = {
         chapters: course.my_chapter,

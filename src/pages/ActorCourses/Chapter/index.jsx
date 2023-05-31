@@ -11,7 +11,7 @@ import { getProfileFromLS } from "../../../utils/auth";
 import { CoursesGVid, addChapter } from "../../../apis/Courses.api";
 import { toast } from "react-toastify";
 import { isAxiosUnprocessableEntityError } from "../../../utils/utils";
-import { useMatch, useParams } from "react-router-dom";
+import { Link, useMatch, useParams } from "react-router-dom";
 import { getChapterDetail,updateChapter } from "../../../apis/Courses.api";
 import { STATUS_CATEGORY_COURSE } from "../../../variable";
 function Chapter() {
@@ -118,10 +118,10 @@ function Chapter() {
                     <Form>
                       <nav className="nav nav-borders">
                         <h3 className="text-start fs-4 align-items-center">
-                          <a href="/Study-With-Me">
+                          <Link to="/Study-With-Me">
                             {" "}
                             <FontAwesomeIcon icon={faHouse} className="icon" />
-                          </a>
+                          </Link>
                           Trang Chủ &gt;  {!isAddMode ? "Sửa ": "Thêm " }
                                Chương Học
                         </h3>

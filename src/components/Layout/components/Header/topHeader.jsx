@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import ic_phone from "../../../../assets/Icon/telephone.png";
 import useDebounce from "../../../../Hooks/useDebounce";
 import { Sidebar } from "./sidebar";
@@ -58,9 +58,9 @@ function TopHeader() {
                 value={valueSearch}
                 onChange={(e) => setValueSearch(e.target.value)}
               />
-              <a href={`/search/${debounce}`} className="search-btn">
+              <Link to={`/search/${debounce}`} className="search-btn">
                 <FontAwesomeIcon icon={faMagnifyingGlass} />
-              </a>
+              </Link>
             </div>
           </div>
           <div className="sidebar d-block d-md-none col-2">
