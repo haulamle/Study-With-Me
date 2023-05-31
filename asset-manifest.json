@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Study-With-Me/static/css/main.c9c2ff9c.css",
-    "main.js": "/Study-With-Me/static/js/main.83553b1a.js",
+    "main.js": "/Study-With-Me/static/js/main.1f1e3540.js",
     "static/js/787.28ceb4c2.chunk.js": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js",
     "static/media/banner.png": "/Study-With-Me/static/media/banner.1e73dca4c10866cc0328.png",
     "static/media/No data-cuate.png": "/Study-With-Me/static/media/No data-cuate.623e84b13230a85af953.png",
@@ -22,11 +22,11 @@
     "index.html": "/Study-With-Me/index.html",
     "static/media/chevron-right.svg": "/Study-With-Me/static/media/chevron-right.feae571ec5d8b5ac4b206b8b645c947f.svg",
     "main.c9c2ff9c.css.map": "/Study-With-Me/static/css/main.c9c2ff9c.css.map",
-    "main.83553b1a.js.map": "/Study-With-Me/static/js/main.83553b1a.js.map",
+    "main.1f1e3540.js.map": "/Study-With-Me/static/js/main.1f1e3540.js.map",
     "787.28ceb4c2.chunk.js.map": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9c2ff9c.css",
-    "static/js/main.83553b1a.js"
+    "static/js/main.1f1e3540.js"
   ]
 }
