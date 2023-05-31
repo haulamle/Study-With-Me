@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Study-With-Me/static/css/main.9103790b.css",
-    "main.js": "/Study-With-Me/static/js/main.867c0a83.js",
+    "main.css": "/Study-With-Me/static/css/main.c9c2ff9c.css",
+    "main.js": "/Study-With-Me/static/js/main.92fa8829.js",
     "static/js/787.28ceb4c2.chunk.js": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js",
     "static/media/banner.png": "/Study-With-Me/static/media/banner.1e73dca4c10866cc0328.png",
+    "static/media/No data-cuate.png": "/Study-With-Me/static/media/No data-cuate.623e84b13230a85af953.png",
     "static/media/banner5.jpg": "/Study-With-Me/static/media/banner5.f3a59cbf294a1e37cf2e.jpg",
     "static/media/banner4.jpg": "/Study-With-Me/static/media/banner4.a48aecb708838a6545ad.jpg",
     "static/media/banner1.jpg": "/Study-With-Me/static/media/banner1.3b79acc01cd37b886888.jpg",
@@ -20,12 +21,12 @@
     "static/media/slick.woff": "/Study-With-Me/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Study-With-Me/index.html",
     "static/media/chevron-right.svg": "/Study-With-Me/static/media/chevron-right.feae571ec5d8b5ac4b206b8b645c947f.svg",
-    "main.9103790b.css.map": "/Study-With-Me/static/css/main.9103790b.css.map",
-    "main.867c0a83.js.map": "/Study-With-Me/static/js/main.867c0a83.js.map",
+    "main.c9c2ff9c.css.map": "/Study-With-Me/static/css/main.c9c2ff9c.css.map",
+    "main.92fa8829.js.map": "/Study-With-Me/static/js/main.92fa8829.js.map",
     "787.28ceb4c2.chunk.js.map": "/Study-With-Me/static/js/787.28ceb4c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9103790b.css",
-    "static/js/main.867c0a83.js"
+    "static/css/main.c9c2ff9c.css",
+    "static/js/main.92fa8829.js"
   ]
 }
